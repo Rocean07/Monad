@@ -1,2 +1,3 @@
 # Monad
-New project to try on monad, maybe the new biggest ecosystem on monad chain
+
+Starting to work on the first project on today 2025-05-14 , who knows if this might end up to be the best on the chain.
